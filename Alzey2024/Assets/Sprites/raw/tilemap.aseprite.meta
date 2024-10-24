@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 244247e2735460f4ea0f20e8dfe5ca91
+guid: ef6bbc86fc0be4c41bd8203853a38dbf
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Sprite-0003
+  - name: tilemap
     originalName: 
     pivot: {x: 1, y: -0.0969697}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 81
       height: 165
-    spriteID: d35bfa264785fba448d182a184f7afff
+    spriteID: ba44ed5ad4a0e05478ca8e8f972411b1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,13 +144,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -572920417
-    name: Sprite-0003
+    guid: -1756119096
+    name: tilemap
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Sprite-0003
+    - name: tilemap
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -158,7 +158,7 @@ ScriptedImporter:
         y: 16
         width: 81
         height: 165
-      spriteId: d35bfa264785fba448d182a184f7afff
+      spriteId: ba44ed5ad4a0e05478ca8e8f972411b1
     linkedCells: []
     parentIndex: -1
   platformSettings:
